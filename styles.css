@@ -1,0 +1,27 @@
+
+body {
+    margin: 0;
+    font-family: 'Georgia', serif;
+    background-color: #0a0a0a;
+    color: #ffd700;
+    text-align: center;
+}
+header {
+    background-color: #111;
+    padding: 2em;
+}
+.crest {
+    height: 80px;
+}
+.tagline {
+    font-style: italic;
+    color: #ccc;
+}
+.intro {
+    padding: 3em;
+}
+footer {
+    background-color: #111;
+    padding: 1em;
+    font-size: 0.9em;
+}
